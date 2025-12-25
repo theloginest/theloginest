@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehran Samavat</h1>
 <h3 align="center">A passionate backend + IoT developer from Iran</h3>
 
-- 🌱 I’m currently learning **ّFlutter**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/theloginest/](https://github.com/theloginest/)
 
