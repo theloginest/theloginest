@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **theloginest@gmail.com**
 
-- 📄 Know about my experiences [theloginest.github.io](theloginest.github.io)
+- 📄 Know about my experiences [theloginest.github.io](https://theloginest.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
